@@ -1,0 +1,14 @@
+div{
+    background-color:blue;
+    padding: 2%;
+    margin: 3%;
+}
+p{
+    background-color: chocolate;
+}
+p.enlinea{
+    display: inline;
+}
+p.inlineblock{
+    display: inline-block;
+}

@@ -1,0 +1,14 @@
+div{
+    background-color: crimson;
+    margin: 3%;
+    width: 40%;
+}
+div.left{
+    float: left;
+}
+div.rigth{
+    float: right;
+}
+p{
+    background-color: darkcyan;
+}
